@@ -1,5 +1,5 @@
-#include <fmt/ostream.h>
 #include <rustpp/rustpp.hpp>
+#include <fmt/ostream.h>
 
 using namespace rustpp;
 
